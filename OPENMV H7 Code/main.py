@@ -4,8 +4,8 @@ import time, network, sensor, image, time, math, ustruct, struct, tf, math, rpc
 
 interface = rpc.rpc_usb_vcp_slave()
 
-SSID='Karam2' # Network SSID
-KEY='1F9018396A'  # Network key
+SSID='*******' # Network SSID
+KEY='*******'  # Network key
 
 threshold_list = [(0, 255)]
 elevatedTemperature = 0
