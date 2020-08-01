@@ -24,10 +24,10 @@ wlan.connect(SSID, key=KEY, security=wlan.WPA_PSK)
 print(wlan.ifconfig())
 
 device = Device(
-    device_id="Arduino-1",
-    device_type= "Arduino",
-    org="mo9vcr",
-    token="dSSbrF0LJGrfs@N_4r"
+    device_id="*******",
+    device_type= ******",
+    org="******",
+    token="*****r"
 )
 
 print("Resetting Lepton...")
